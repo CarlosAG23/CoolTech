@@ -1,5 +1,5 @@
-# CoolTech
-
+# Pagina de prueba CoolTech
+## Pagina de inicio
 ![gane1](https://github.com/CarlosAG23/CoolTech/assets/67843396/93425843-ffde-411c-969f-059c203eb1dd)
 
 
